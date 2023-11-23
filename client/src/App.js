@@ -3,6 +3,7 @@ import React from 'react';
 import About from './pages/About/About';
 import { BrowserRouter, Routes, Route,Link } from "react-router-dom"
 import Home from './pages/Home/Home';
+import "server.js"
 
 function App(){
     return (
